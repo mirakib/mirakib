@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Moshrekul Islam</h1>
-<h3 align="center">Passionate about DevOps solutions and System Engineering</h3>
+<h3 align="center">Passionate about DevOps Solutions and System Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirakib&label=Profile%20views&color=0e75b6&style=flat" alt="mirakib" /> </p>
 
@@ -11,6 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/moshrekul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasirnjs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moshrekul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirakib" height="30" width="40" /></a>
 
 </p>

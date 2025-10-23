@@ -17,3 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirakib&show_icons=true&locale=en&layout=compact" alt="mirakib" /></p>
+
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mirakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=mirakib&theme=dark&hide_border=false)<br/>

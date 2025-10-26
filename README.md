@@ -16,6 +16,12 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,aws,git,docker,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirakib&show_icons=true&locale=en&layout=compact" alt="mirakib" /></p>
 
 ### GitHub Stats:

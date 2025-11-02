@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,linux,git,aws,terraform,docker,kubernetes,jenkins,nginx,prometheus,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=python,bash,linux,git,aws,terraform,docker,kubernetes,jenkins,nginx,prometheus,grafana,ubuntu" />
   </a>
 </p>
 

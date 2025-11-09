@@ -10,10 +10,14 @@
 - 📫 How to reach me **mirakib.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/moshrekul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirakib" height="30" width="40" /></a>
 
+<p align="left">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/moshrekul" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="height: 40px;"/></a>
+  <a href="https://leetcode.com/u/mirakib/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" style="height: 40px;"/></a>
+</div>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">

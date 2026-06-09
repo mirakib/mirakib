@@ -25,11 +25,3 @@
     <img src="https://skillicons.dev/icons?i=python,bash,linux,git,aws,azure,terraform,docker,kubernetes,jenkins,nginx,prometheus,grafana,ubuntu" />
   </a>
 </p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirakib&show_icons=true&locale=en&layout=compact"/>
-</p>
-
-<div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=mirakib&theme=dark&hide_border=false)
-</div>
